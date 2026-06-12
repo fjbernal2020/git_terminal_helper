@@ -3,6 +3,10 @@
 
 > "Forked and remade from a script dating back to 2015 and used every day since then. Developed between March 20th and March 29th, 2026. Born in Málaga, Andalucía ☀️"
 
+<p align="center">
+  <img src="demo.gif" alt="Git Terminal Helper demo">
+</p>
+
 ---
 
 ## 📖 Overview
