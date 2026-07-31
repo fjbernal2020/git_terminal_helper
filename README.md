@@ -27,7 +27,7 @@ The easiest way to install it on Linux/macOS is using the provided installer:
 
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/youruser/git-terminal-helper.git](https://github.com/youruser/git-terminal-helper.git)
+   git clone https://github.com/jbernal202/git-terminal-helper.git
    cd git-terminal-helper
 
 Run the installer:
